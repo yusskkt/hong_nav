@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753277324814",
+          "name": "gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": "/sitelogo/gemini.google.com.ico"
         }
       ]
     },
@@ -35,13 +42,6 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
         {
           "id": "claude",
           "name": "Claude",
@@ -118,21 +118,6 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 6,
-      "sites": [
-        {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
         }
       ]
     },
