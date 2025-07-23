@@ -190,6 +190,13 @@ export const mockData = {
           "url": "https://www.bestblogs.dev/",
           "description": "",
           "icon": "/sitelogo/www.bestblogs.dev.ico"
+        },
+        {
+          "id": "site-1753279757336",
+          "name": "热榜",
+          "url": "https://trend.tgmeng.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
