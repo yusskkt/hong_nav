@@ -33,6 +33,12 @@ export const mockData = {
           "url": "https://gemini.google.com/app",
           "description": "",
           "icon": "/sitelogo/gemini.google.com.ico"
+        },
+        {
+          "id": "site-1753323212044",
+          "name": "自用gpt",
+          "url": "https://gpt.184209.xyz/",
+          "description": ""
         }
       ]
     },
