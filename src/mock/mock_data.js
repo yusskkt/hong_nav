@@ -57,19 +57,6 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "site-1753275390029",
-          "name": "云雾",
-          "url": "https://yunwu.ai/console",
-          "description": "",
-          "icon": "/sitelogo/yunwu.ai.ico"
-        },
-        {
-          "id": "site-1753275411485",
-          "name": "钱多多beta",
-          "url": "https://35.aigcbest.top/",
-          "description": ""
-        },
-        {
           "id": "site-1753275423093",
           "name": "gala",
           "url": "https://www.galaapi.com/",
@@ -89,6 +76,12 @@ export const mockData = {
           "url": "https://chat.qwen.ai/",
           "description": "",
           "icon": "/sitelogo/chat.qwen.ai.ico"
+        },
+        {
+          "id": "site-1773662166258",
+          "name": "m365 copilot",
+          "url": "https://m365.cloud.microsoft/chat/?fromcode=cmmyr718qsb&refOrigin=Google&auth=1",
+          "description": ""
         }
       ]
     },
