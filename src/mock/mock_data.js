@@ -28,17 +28,11 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "site-1753277324814",
-          "name": "gemini",
-          "url": "https://gemini.google.com/app",
+          "id": "site-1773662106473",
+          "name": "B站",
+          "url": "https://www.bilibili.com/",
           "description": "",
-          "icon": "/sitelogo/gemini.google.com.ico"
-        },
-        {
-          "id": "site-1753323212044",
-          "name": "自用gpt",
-          "url": "https://gpt.184209.xyz/",
-          "description": ""
+          "icon": ""
         }
       ]
     },
